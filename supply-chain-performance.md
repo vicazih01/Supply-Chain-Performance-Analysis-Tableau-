@@ -39,7 +39,7 @@ Evaluate the effectiveness of Decorah Outdoor Mart’s supply chain across produ
 
 ## 🖼️ Dashboard Screenshot
 
-![Supply Chain Dashboard](./6fef0dae-69d2-488b-bd68-6c485cf1149c.png)
+![Supply Chain Dashboard](./tableau-dashboard.png)
 
 > 📁 *For full resolution, you can download or view this image directly in the repo.*
 
